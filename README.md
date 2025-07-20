@@ -1,4 +1,4 @@
-# Sales Dashboard Overview
+# Sales Dashboard Overview (Tableau)
 
 ![Sales Dashboard Screenshot](Sales_Dashboard_Screenshot.png)
 
@@ -11,8 +11,9 @@ This project presents a Sales Dashboard built using Tableau to visualize and ana
 - Regional Sales Distribution  
 - Top-performing Products  
 
-## Tool Used:
-- Tableau  
+## Tools Used:
+- Tableau
+- Excel  
 
 ## Objective:
 To help stakeholders understand sales trends, identify top-selling products, and make data-driven business decisions.
